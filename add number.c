@@ -1,3 +1,4 @@
+//Write a program to add two number
 #include <stdio.h> //header file
 int main()
 {
